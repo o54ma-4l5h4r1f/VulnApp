@@ -1,0 +1,5 @@
+10016	IGNORE	Web Browser XSS Protection Not Enabled (not applicable to API)
+10020	IGNORE	X-Frame-Options Header Not Set (not applicable to API)
+10021	WARN	X-Content-Type-Options Header Missing
+10035	WARN	Strict-Transport-Security Header Not Set
+10202	WARN	Absence of Anti-CSRF Tokens
