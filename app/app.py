@@ -59,4 +59,4 @@ def health():
 
 if __name__ == "__main__":
     # VULN-5: debug=True in production enables the interactive Werkzeug debugger
-    app.run(debug=True, host="0.0.0.0", port=5000)STRIPE_SECRET_KEY = "sk_live_newleakedkey12345abcdef"
+    app.run(debug=True, host="0.0.0.0", port=5000)
